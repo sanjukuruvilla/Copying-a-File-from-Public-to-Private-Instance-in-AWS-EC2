@@ -1,6 +1,6 @@
 A step by step on how to Copy a File from Public to Private Instance in AWS EC2
 
-#prerequisite:
+# prerequisite:
 
 We should have one public instance and another private instance ready in hand.
 
